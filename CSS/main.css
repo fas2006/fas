@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {background-color:maroon }
+
+#Logo {float: left; margin:23px;}
+#Icon {float: right; margin:25px;}
+#navigation
+{
+	clear: both;
+	border-top: solid #EE9596 5px;
+	border-bottom: solid #EE9596 5px;
+	word-spacing:10px;
+	margin: 10px;
+	padding: 10px;
+	
+}
+
+#Weldow h1 
+{
+	color: #f90;
+	border-bottom: solid #EE9596 0.5px;
+	padding: 10px; 
+}
+
+#Weldow {float:left; width:600px;}
+#kanan {float:left; width:250px;}
+#Footer {clear:both;}
+
+#Kotak {background-color:white; margin:0px auto; width:900px}
+
+#kanan h3
+{
+	color:darkslateblue 1px;
+	padding:6px;
+}
+
+#Weldow img 
+{ 
+	border-top: solid #f90 1px;
+	border-bottom: solid #f90 1px;
+	border-right: solid #f90 1px;
+	border-left: solid #f90 1px;
+	padding:7px;
+	margin: 5px;
+}
+#navigation a{text-decoration:none;}
+#navigation a:link {color:#f90}
+#navigation a:hover {color:#F7E5EC}
+#navigation a:visited {color:#f90;}
+
+
+#Weldow {float:left; width:650px; margin-right: 15px}
+#LatestNews {float: right; width:225px;}
+#Footer {clear:both;}
+
+#Kotak {background-color:white; margin:0px auto; width:950px;}
+#KotakKotak {background-color:white; margin:0px auto; width:900px;
+margin: 0px auto; width:900px;}
+
+
+
+#Footer
+{border-top:solid black 0.5px}
+
+#ModernRooms
+{ 
+	width:250px; 
+	border-top:solid #554041 10px;
+	background-color: lightgrey;
+	float:left;
+	margin-left:20px;
+	margin-bottom:20px;
+	padding-bottom: 10px;
+}
+#ModernRooms h3
+{padding-left:10px;}
+#ModernRooms p
+{padding-left: 10px;}
+#ModernRooms a
+{padding-left: 10px;}
+
+
+#TraditionalRooms
+{
+	width:250px;
+    border-top:solid lightblue 10px;
+    background-color:lightgrey;
+    float:left;
+    margin-left:20px;
+	margin-bottom:20px;
+	padding-bottom: 15px;
+}
+#TraditionalRooms h3
+{padding-left:10px;}
+#TraditionalRooms p
+{padding-left: 10px;}
+#TraditionalRooms a
+{padding-left: 10px;
+}
+
+
+	
+#ContemporaryRooms
+{
+	width:250px;
+    border-top:solid #B85758 10px;
+    background-color:lightgrey;
+    float:left;
+    margin-left:20px;
+	margin-bottom:20px;
+	padding-bottom: 10px;
+}
+#ContemporaryRooms h3
+{padding-left:10px;}
+#ContemporaryRooms p
+{padding-left: 10px;}
+#ContemporaryRooms a
+{padding-left: 10px;}
+#ContemporaryRooms
+{padding-left: 12px;}
+
+#Weldow1 h1 
+{color: darkorange;
+border-bottom: solid black 0.5px;
+padding: 10px;}
+
+
+
+#gallery
+
+ 
+	
+
+	
+	
+	
